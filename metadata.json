@@ -1,0 +1,8 @@
+{
+  "name": "SpaceX Investment",
+  "description": "A single-page APK download website for SpaceX Investment with an animated space theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
